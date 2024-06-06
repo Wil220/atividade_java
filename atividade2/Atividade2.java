@@ -28,5 +28,4 @@ public class Atividade2 {
 		
 		sc.close();
 	}
-
 }

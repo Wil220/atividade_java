@@ -3,7 +3,7 @@ package atividade3;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class atividade3 {
+public class Atividade3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
