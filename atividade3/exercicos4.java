@@ -1,9 +1,9 @@
-package atividade4;
+package atividade3;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Atividade4 {
+public class exercicos4 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
