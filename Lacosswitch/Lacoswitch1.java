@@ -1,3 +1,4 @@
+package Lacosswitch;
 import java.util.Scanner;
 
 public class Lacoswitch1 {

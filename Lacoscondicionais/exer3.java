@@ -1,9 +1,9 @@
-package lacoscondicionais3;
+package Lacoscondicionais;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public final class lacoscondicionais3 {
+public final class exer3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 

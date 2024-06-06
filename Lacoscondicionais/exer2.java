@@ -1,8 +1,8 @@
-package lacoscondicionais2;
+package Lacoscondicionais;
 
 import java.util.Scanner;
 
-public class Lacoscondicionais2 {
+public class exer2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
