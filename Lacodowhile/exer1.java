@@ -1,6 +1,5 @@
 package Lacodowhile;
 
-import java.security.DrbgParameters.NextBytes;
 import java.util.Scanner;
 
 public class exer1 {
@@ -9,15 +8,15 @@ public class exer1 {
 		// TODO Auto-generated method stub
 
 		int numero = 0;
-		int media = 0;
+		int soma = 0;
 		Scanner sc = new Scanner(System.in);
 
 		do {
-			System.out.println("Digite um numero");
+			System.out.println("Digite um numero: ");
 			numero = sc.nextInt();
 
-			if (numero % 3 == 0) {
-				media += numero;
+			if (numero > 0) {
+				soma += numero;
 			}
 
 		} while (numero != 0);
@@ -26,4 +25,3 @@ public class exer1 {
 		sc.close();
 	}
 }
-
